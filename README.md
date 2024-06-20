@@ -1,1 +1,11 @@
-# OhioAtomModeling
+# Ohio Atom Modeling
+## Modeling of the opioid syndemic in Ohio using atom-based modeling
+
+In this project we estimate one latent factor characterizing variation of the syndemic across space in Ohio. There are 5 different outcomes considered in this project: 
+- Death counts: county-level counts; included are the counts of unintentional overdose deaths involving illicit opioids.
+- Treatment counts: county-level counts; included are the number of uninsured individuals and Medicaid beneficiaries with opioid use disorder served by treatment programs.
+- HCV infections: county-level counts; included acute and chronic cases of HCV cases.
+- HIV infections: county-level counts; included are newly diagnosed HIV infections.
+- Naloxone counts: ZIP code level counts.
+
+Description of the files:
