@@ -9,4 +9,5 @@ In this project we estimate one latent factor characterizing variation of the sy
 - Naloxone counts: ZIP code level counts.
 
 Description of the files:
-- *Data* folder all the data used in our modeling framework
+- **Data** folder with all the data used in our modeling framework.
+- **Model.R** the RScript for our model estimation procedure.
