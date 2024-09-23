@@ -1,0 +1,1232 @@
+zcta,ZIPName,ZCTA_pop,afact
+ZIP census tabulation area,ZIP Code name,Total population (2020 Census),zcta-to-zcta allocation factor
+ ,[not in a ZCTA],7,1
+43001,"Alexandria, OH",2705,1
+43002,"Columbus, OH",2026,1
+43003,"Ashley, OH",2776,1
+43004,"Columbus, OH",29982,1
+43005,"Bladensburg, OH",282,1
+43006,"Brinkhaven, OH",715,1
+43007,"Broadway, OH",88,1
+43008,"Buckeye Lake, OH",2378,1
+43009,"Cable, OH",2083,1
+43010,"Catawba, OH",245,1
+43011,"Centerburg, OH",7559,1
+43013,"Croton, OH",1220,1
+43014,"Danville, OH",3850,1
+43015,"Delaware, OH",57563,1
+43016,"Dublin, OH",44517,1
+43017,"Dublin, OH",43619,1
+43018,"Etna, OH (PO Boxes)",373,1
+43019,"Fredericktown, OH",9419,1
+43021,"Galena, OH",14622,1
+43022,"Gambier, OH",4120,1
+43023,"Granville, OH",14462,1
+43025,"Hebron, OH",5541,1
+43026,"Hilliard, OH",64607,1
+43027,"Homer, OH (PO Boxes)",58,1
+43028,"Apple Valley, OH",7781,1
+43029,"Irwin, OH",629,1
+43030,"Jacksontown, OH (PO Boxes)",344,1
+43031,"Johnstown, OH",13189,1
+43032,"Kilbourne, OH",39,1
+43033,"Kirkersville, OH",352,1
+43035,"Lewis Center, OH",33032,1
+43036,"Magnetic Springs, OH",267,1
+43037,"Martinsburg, OH",323,1
+43040,"Marysville, OH",35853,1
+43044,"Mechanicsburg, OH",5352,1
+43045,"Milford Center, OH",1928,1
+43046,"Millersport, OH",3195,1
+43047,"Mingo, OH (PO Boxes)",31,1
+43050,"Mount Vernon, OH",29594,1
+43054,"Columbus, OH",27781,1
+43055,"Newark, OH",62590,1
+43056,"Heath, OH",17479,1
+43060,"North Lewisburg, OH",2667,1
+43061,"Ostrander, OH",4593,1
+43062,"Pataskala, OH",32125,1
+43064,"Plain City, OH",17301,1
+43065,"Powell, OH",44829,1
+43066,"Radnor, OH",1264,1
+43067,"Raymond, OH",1410,1
+43068,"Reynoldsburg, OH",59585,1
+43070,"Rosewood, OH",158,1
+43071,"Saint Louisville, OH",2442,1
+43072,"Saint Paris, OH",5504,1
+43074,"Sunbury, OH",15288,1
+43076,"Thornville, OH",9145,1
+43077,"Unionville Center, OH",241,1
+43078,"Urbana, OH",20067,1
+43080,"Utica, OH",5321,1
+43081,"Westerville, OH",64338,1
+43082,"Westerville, OH",32459,1
+43084,"Woodstock, OH",844,1
+43085,"Worthington, OH",25566,1
+43101,"Adelphi, OH",322,1
+43102,"Amanda, OH",4610,1
+43103,"Ashville, OH",12282,1
+43105,"Baltimore, OH",8458,1
+43106,"Bloomingburg, OH",1590,1
+43107,"Bremen, OH",3232,1
+43109,"Brice, OH",94,1
+43110,"Columbus, OH",40953,1
+43111,"Carbon Hill, OH",178,1
+43112,"Carroll, OH",5052,1
+43113,"Circleville, OH",24165,1
+43115,"Clarksburg, OH",1260,1
+43116,"Commercial Point, OH",2732,1
+43117,"Derby, OH (PO Boxes)",31,1
+43119,"Columbus, OH",30072,1
+43123,"Grove City, OH",66188,1
+43125,"Groveport, OH",14295,1
+43126,"Harrisburg, OH",322,1
+43127,"Haydenville, OH",284,1
+43128,"Jeffersonville, OH",2267,1
+43130,"Lancaster, OH",62010,1
+43135,"Laurelville, OH",4267,1
+43136,"Lithopolis, OH",1977,1
+43137,"Lockbourne, OH",2684,1
+43138,"Logan, OH",18445,1
+43140,"London, OH",24030,1
+43142,"Milledgeville, OH",94,1
+43143,"Mount Sterling, OH",5935,1
+43144,"Murray City, OH",373,1
+43145,"New Holland, OH",1920,1
+43146,"Orient, OH",12627,1
+43147,"Pickerington, OH",45281,1
+43148,"Pleasantville, OH",2431,1
+43149,"Rockbridge, OH",2335,1
+43150,"Rushville, OH",2302,1
+43151,"Midway, OH",269,1
+43152,"South Bloomingville, OH",969,1
+43153,"South Solon, OH",861,1
+43154,"Stoutsville, OH",3014,1
+43155,"Sugar Grove, OH",2531,1
+43156,"Tarlton, OH",203,1
+43157,"Thurston, OH",599,1
+43158,"Union Furnace, OH (PO Boxes)",182,1
+43160,"Washington Court House, OH",22117,1
+43162,"West Jefferson, OH",6945,1
+43164,"Williamsport, OH",2216,1
+43201,"Columbus, OH",37528,1
+43202,"Columbus, OH",20427,1
+43203,"Columbus, OH",8726,1
+43204,"Columbus, OH",42315,1
+43205,"Columbus, OH",12044,1
+43206,"Columbus, OH",21594,1
+43207,"Columbus, OH",46853,1
+43209,"Columbus, OH",27727,1
+43210,"Columbus, OH",14126,1
+43211,"Columbus, OH",23160,1
+43212,"Columbus, OH",24171,1
+43213,"Whitehall, OH",35105,1
+43214,"Columbus, OH",26805,1
+43215,"Columbus, OH",20761,1
+43217,"Columbus, OH",2408,1
+43219,"Columbus, OH",30457,1
+43220,"Columbus, OH",27736,1
+43221,"Upper Arlington, OH",33844,1
+43222,"Columbus, OH",4124,1
+43223,"Columbus, OH",27951,1
+43224,"Columbus, OH",43544,1
+43227,"Columbus, OH",25041,1
+43228,"Columbus, OH",58465,1
+43229,"Columbus, OH",54310,1
+43230,"Gahanna, OH",58372,1
+43231,"Columbus, OH",22126,1
+43232,"Columbus, OH",44823,1
+43235,"Columbus, OH",45561,1
+43240,"Columbus, OH",7661,1
+43302,"Marion, OH",54094,1
+43310,"Belle Center, OH",3185,1
+43311,"Bellefontaine, OH",20029,1
+43314,"Caledonia, OH",3096,1
+43315,"Cardington, OH",7090,1
+43316,"Carey, OH",5931,1
+43317,"Chesterville, OH",184,1
+43318,"De Graff, OH",3609,1
+43319,"East Liberty, OH",1062,1
+43320,"Edison, OH",1440,1
+43321,"Fulton, OH",250,1
+43322,"Green Camp, OH",310,1
+43323,"Harpster, OH",609,1
+43324,"Huntsville, OH",2753,1
+43325,"Iberia, OH (PO Boxes)",151,1
+43326,"Kenton, OH",13328,1
+43330,"Kirby, OH",120,1
+43331,"Lakeview, OH",4428,1
+43332,"La Rue, OH",2136,1
+43333,"Lewistown, OH",826,1
+43334,"Marengo, OH",6721,1
+43336,"Middleburg, OH (PO Boxes)",91,1
+43337,"Morral, OH",1001,1
+43338,"Mount Gilead, OH",10423,1
+43340,"Mount Victory, OH",1754,1
+43341,"New Bloomington, OH",911,1
+43342,"Prospect, OH",3256,1
+43343,"Quincy, OH",1233,1
+43344,"Richwood, OH",5702,1
+43345,"Ridgeway, OH",874,1
+43346,"Roundhead, OH (PO Boxes)",56,1
+43347,"Rushsylvania, OH",1492,1
+43348,"Russells Point, OH",1880,1
+43350,"Sparta, OH (PO Boxes)",127,1
+43351,"Upper Sandusky, OH",10144,1
+43356,"Waldo, OH",1161,1
+43357,"West Liberty, OH",4848,1
+43358,"West Mansfield, OH",2587,1
+43359,"Wharton, OH",720,1
+43360,"Zanesfield, OH",1590,1
+43402,"Bowling Green, OH",31459,1
+43403,"Bowling Green, OH",5422,1
+43406,"Bradner, OH",1740,1
+43407,"Burgoon, OH",631,1
+43408,"Clay Center, OH",251,1
+43410,"Clyde, OH",10219,1
+43412,"Curtice, OH",4033,1
+43413,"Cygnet, OH",1430,1
+43414,"Dunbridge, OH (PO Boxes)",73,1
+43416,"Elmore, OH",2769,1
+43420,"Fremont, OH",29332,1
+43430,"Genoa, OH",4631,1
+43431,"Gibsonburg, OH",4500,1
+43432,"Graytown, OH",1354,1
+43433,"Gypsum, OH (PO Boxes)",101,1
+43434,"Harbor View, OH",89,1
+43435,"Helena, OH",1484,1
+43436,"Isle Saint George, OH (PO Boxes)",10,1
+43437,"Jerry City, OH",447,1
+43438,"Kelleys Island, OH",256,1
+43439,"Lacarne, OH (PO Boxes)",62,1
+43440,"Lakeside Marblehead, OH",4665,1
+43442,"Lindsey, OH",1015,1
+43443,"Luckey, OH",1856,1
+43445,"Martin, OH",1188,1
+43446,"Middle Bass, OH",118,1
+43447,"Millbury, OH",3343,1
+43449,"Oak Harbor, OH",8057,1
+43450,"Pemberville, OH",3454,1
+43451,"Portage, OH",1126,1
+43452,"Port Clinton, OH",13443,1
+43456,"Put In Bay, OH (PO Boxes)",678,1
+43457,"Risingsun, OH",1443,1
+43458,"Rocky Ridge, OH",312,1
+43460,"Rossford, OH",6230,1
+43462,"Rudolph, OH",1096,1
+43463,"Stony Ridge, OH (PO Boxes)",253,1
+43464,"Vickery, OH",1336,1
+43465,"Walbridge, OH",5599,1
+43466,"Wayne, OH",2141,1
+43467,"West Millgrove, OH",131,1
+43468,"Williston, OH",565,1
+43469,"Woodville, OH",3014,1
+43501,"Alvordton, OH",844,1
+43502,"Archbold, OH",7064,1
+43504,"Berkey, OH",1110,1
+43505,"Blakeslee, OH",98,1
+43506,"Bryan, OH",15010,1
+43510,"Colton, OH (PO Boxes)",157,1
+43511,"Custar, OH",856,1
+43512,"Defiance, OH",28208,1
+43515,"Delta, OH",8174,1
+43516,"Deshler, OH",2776,1
+43517,"Edgerton, OH",3494,1
+43518,"Edon, OH",2572,1
+43519,"Evansport, OH",143,1
+43520,"Farmer, OH (PO Boxes)",77,1
+43521,"Fayette, OH",2693,1
+43522,"Grand Rapids, OH",3249,1
+43523,"Grelton, OH",133,1
+43524,"Hamler, OH",1239,1
+43525,"Haskins, OH",1191,1
+43526,"Hicksville, OH",5995,1
+43527,"Holgate, OH",2152,1
+43528,"Holland, OH",16746,1
+43529,"Hoytville, OH",220,1
+43530,"Jewell, OH (PO Boxes)",15,1
+43531,"Kunkle, OH",156,1
+43532,"Liberty Center, OH",3775,1
+43533,"Lyons, OH",1509,1
+43534,"Mc Clure, OH",1662,1
+43535,"Malinta, OH",721,1
+43536,"Mark Center, OH",383,1
+43537,"Maumee, OH",29075,1
+43540,"Metamora, OH",1459,1
+43541,"Milton Center, OH",137,1
+43542,"Monclova, OH",4443,1
+43543,"Montpelier, OH",7364,1
+43545,"Napoleon, OH",13954,1
+43547,"Neapolis, OH",370,1
+43548,"New Bavaria, OH",721,1
+43549,"Ney, OH",1359,1
+43551,"Perrysburg, OH",43235,1
+43553,"Pettisville, OH",330,1
+43554,"Pioneer, OH",2413,1
+43555,"Ridgeville Corners, OH",333,1
+43556,"Sherwood, OH",1762,1
+43557,"Stryker, OH",3161,1
+43558,"Swanton, OH",13088,1
+43560,"Sylvania, OH",34204,1
+43565,"Tontogany, OH",349,1
+43566,"Waterville, OH",8371,1
+43567,"Wauseon, OH",13240,1
+43569,"Weston, OH",2628,1
+43570,"West Unity, OH",3152,1
+43571,"Whitehouse, OH",7753,1
+43604,"Toledo, OH",9248,1
+43605,"Toledo, OH",25007,1
+43606,"Toledo, OH",25671,1
+43607,"Toledo, OH",20494,1
+43608,"Toledo, OH",12948,1
+43609,"Toledo, OH",20519,1
+43610,"Toledo, OH",4159,1
+43611,"Toledo, OH",18505,1
+43612,"Toledo, OH",29718,1
+43613,"Toledo, OH",32116,1
+43614,"Toledo, OH",29866,1
+43615,"Toledo, OH",39449,1
+43616,"Oregon, OH",20480,1
+43617,"Toledo, OH",7659,1
+43619,"Northwood, OH",7454,1
+43620,"Toledo, OH",5019,1
+43623,"Toledo, OH",20320,1
+43701,"Zanesville, OH",55361,1
+43711,"Ava, OH (PO Boxes)",87,1
+43713,"Barnesville, OH",7227,1
+43716,"Beallsville, OH",1806,1
+43717,"Belle Valley, OH",156,1
+43718,"Belmont, OH",3049,1
+43719,"Bethesda, OH",2319,1
+43720,"Blue Rock, OH",1304,1
+43721,"Brownsville, OH",140,1
+43722,"Buffalo, OH",324,1
+43723,"Byesville, OH",4671,1
+43724,"Caldwell, OH",8865,1
+43725,"Cambridge, OH",19520,1
+43727,"Chandlersville, OH",1517,1
+43728,"Chesterhill, OH",1072,1
+43730,"Corning, OH",2277,1
+43731,"Crooksville, OH",5200,1
+43732,"Cumberland, OH",1648,1
+43733,"Derwent, OH (PO Boxes)",57,1
+43734,"Duncan Falls, OH",1212,1
+43735,"East Fultonham, OH",382,1
+43736,"Fairview, OH",19,1
+43738,"Fultonham, OH",73,1
+43739,"Glenford, OH",2380,1
+43740,"Gratiot, OH",220,1
+43746,"Hopewell, OH",1261,1
+43747,"Jerusalem, OH",1229,1
+43748,"Junction City, OH",2711,1
+43749,"Kimbolton, OH",2308,1
+43750,"Kipling, OH",145,1
+43754,"Lewisville, OH",1318,1
+43755,"Lore City, OH",1732,1
+43756,"Mcconnelsville, OH",4909,1
+43758,"Malta, OH",3000,1
+43759,"Morristown, OH",235,1
+43760,"Mount Perry, OH",1949,1
+43761,"Moxahala, OH (PO Boxes)",54,1
+43762,"New Concord, OH",5346,1
+43764,"New Lexington, OH",8177,1
+43766,"New Straitsville, OH",1492,1
+43767,"Norwich, OH",1425,1
+43768,"Old Washington, OH",223,1
+43771,"Philo, OH",1796,1
+43772,"Pleasant City, OH",1811,1
+43773,"Quaker City, OH",2964,1
+43777,"Roseville, OH",4568,1
+43778,"Salesville, OH",1428,1
+43779,"Sarahsville, OH",888,1
+43780,"Senecaville, OH",2235,1
+43782,"Shawnee, OH",727,1
+43783,"Somerset, OH",4743,1
+43786,"Stafford, OH",56,1
+43787,"Stockport, OH",2815,1
+43788,"Summerfield, OH",816,1
+43791,"White Cottage, OH (PO Boxes)",133,1
+43793,"Woodsfield, OH",4829,1
+43802,"Adamsville, OH",1334,1
+43804,"Baltic, OH",4045,1
+43805,"Blissfield, OH (PO Boxes)",66,1
+43811,"Conesville, OH",763,1
+43812,"Coshocton, OH",18669,1
+43821,"Dresden, OH",4557,1
+43822,"Frazeysburg, OH",4668,1
+43824,"Fresno, OH",3991,1
+43830,"Nashport, OH",6593,1
+43832,"Newcomerstown, OH",7341,1
+43836,"Plainfield, OH",107,1
+43837,"Port Washington, OH",1784,1
+43840,"Stone Creek, OH",1279,1
+43842,"Trinway, OH",345,1
+43843,"Walhonding, OH",1449,1
+43844,"Warsaw, OH",3778,1
+43845,"West Lafayette, OH",4803,1
+43901,"Adena, OH",2082,1
+43902,"Alledonia, OH",200,1
+43903,"Amsterdam, OH",1937,1
+43905,"Barton, OH (PO Boxes)",474,1
+43906,"Bellaire, OH",7952,1
+43907,"Cadiz, OH",5369,1
+43908,"Bergholz, OH",1321,1
+43909,"Blaine, OH (PO Boxes)",78,1
+43910,"Bloomingdale, OH",3379,1
+43912,"Bridgeport, OH",6060,1
+43913,"Brilliant, OH",1322,1
+43914,"Cameron, OH (PO Boxes)",66,1
+43915,"Clarington, OH",1383,1
+43917,"Dillonvale, OH",2647,1
+43920,"East Liverpool, OH",21662,1
+43925,"East Springfield, OH (PO Boxes)",119,1
+43926,"Empire, OH",247,1
+43928,"Glencoe, OH",235,1
+43930,"Hammondsville, OH",681,1
+43931,"Hannibal, OH",168,1
+43932,"Irondale, OH",970,1
+43933,"Jacobsburg, OH",1969,1
+43934,"Lansing, OH",227,1
+43935,"Martins Ferry, OH",7968,1
+43938,"Mingo Junction, OH",5196,1
+43939,"Mount Pleasant, OH",436,1
+43940,"Neffs, OH",321,1
+43942,"Powhatan Point, OH",2271,1
+43943,"Rayland, OH",3452,1
+43944,"Richmond, OH",2328,1
+43945,"Salineville, OH",2972,1
+43946,"Sardis, OH",1836,1
+43947,"Shadyside, OH",5002,1
+43948,"Smithfield, OH",514,1
+43950,"Saint Clairsville, OH",16212,1
+43951,"Lafferty, OH",169,1
+43952,"Steubenville, OH",17977,1
+43953,"Steubenville, OH",11637,1
+43961,"Stratton, OH",234,1
+43962,"Summitville, OH",66,1
+43963,"Tiltonsville, OH",1249,1
+43964,"Toronto, OH",9098,1
+43967,"Warnock, OH (PO Boxes)",37,1
+43968,"Wellsville, OH",6546,1
+43971,"Yorkville, OH",1033,1
+43972,"Bannock, OH",93,1
+43973,"Freeport, OH",1947,1
+43974,"Harrisville, OH",99,1
+43976,"Hopedale, OH",1543,1
+43977,"Flushing, OH",2178,1
+43981,"New Athens, OH (PO Boxes)",176,1
+43983,"Piedmont, OH",436,1
+43985,"Holloway, OH",270,1
+43986,"Jewett, OH",1728,1
+43988,"Scio, OH",2351,1
+44001,"Amherst, OH",20837,1
+44003,"Andover, OH",4275,1
+44004,"Ashtabula, OH",31661,1
+44010,"Austinburg, OH",1666,1
+44011,"Avon, OH",24847,1
+44012,"Avon Lake, OH",25206,1
+44017,"Berea, OH",18611,1
+44021,"Burton, OH",6347,1
+44022,"Chagrin Falls, OH",17150,1
+44023,"Chagrin Falls, OH",19075,1
+44024,"Chardon, OH",23795,1
+44026,"Chesterland, OH",10877,1
+44028,"Columbia Station, OH",8931,1
+44030,"Conneaut, OH",15868,1
+44032,"Dorset, OH",1505,1
+44035,"Elyria, OH",61921,1
+44039,"North Ridgeville, OH",35630,1
+44040,"Gates Mills, OH",3032,1
+44041,"Geneva, OH",13910,1
+44044,"Grafton, OH",14911,1
+44045,"Grand River, OH",421,1
+44046,"Huntsburg, OH",2187,1
+44047,"Jefferson, OH",9156,1
+44048,"Kingsville, OH",2178,1
+44049,"Kipton, OH",194,1
+44050,"Lagrange, OH",6724,1
+44052,"Lorain, OH",29249,1
+44053,"Lorain, OH",20735,1
+44054,"Sheffield Lake, OH",12484,1
+44055,"Lorain, OH",19331,1
+44056,"Macedonia, OH",12156,1
+44057,"North Madison, OH",19447,1
+44060,"Mentor, OH",60360,1
+44062,"Middlefield, OH",15085,1
+44064,"Montville, OH",1618,1
+44065,"Newbury, OH",4058,1
+44067,"Northfield, OH",19995,1
+44068,"North Kingsville, OH (PO Boxes)",226,1
+44070,"North Olmsted, OH",32442,1
+44072,"Novelty, OH",4583,1
+44074,"Oberlin, OH",11957,1
+44076,"Orwell, OH",5313,1
+44077,"Painesville, OH",58253,1
+44080,"Parkman, OH (PO Boxes)",153,1
+44081,"Perry, OH",6930,1
+44082,"Pierpont, OH",1511,1
+44084,"Rock Creek, OH",3707,1
+44085,"Rome, OH",3232,1
+44086,"Thompson, OH",2221,1
+44087,"Twinsburg, OH",22626,1
+44089,"Vermilion, OH",15899,1
+44090,"Wellington, OH",11085,1
+44092,"Wickliffe, OH",16786,1
+44093,"Williamsfield, OH",1454,1
+44094,"Willoughby, OH",37634,1
+44095,"Eastlake, OH",32616,1
+44099,"Windsor, OH",2528,1
+44101,"Cleveland, OH",624,1
+44102,"Cleveland, OH",43347,1
+44103,"Cleveland, OH",14469,1
+44104,"Cleveland, OH",20202,1
+44105,"Cleveland, OH",34100,1
+44106,"Cleveland, OH",26608,1
+44107,"Lakewood, OH",51109,1
+44108,"Cleveland, OH",20005,1
+44109,"Cleveland, OH",39121,1
+44110,"Cleveland, OH",17617,1
+44111,"Cleveland, OH",41045,1
+44112,"East Cleveland, OH",18685,1
+44113,"Cleveland, OH",20291,1
+44114,"Cleveland, OH",7622,1
+44115,"Cleveland, OH",8985,1
+44116,"Rocky River, OH",21821,1
+44117,"Euclid, OH",10533,1
+44118,"Cleveland Heights, OH",40242,1
+44119,"Cleveland, OH",12134,1
+44120,"Cleveland, OH",34611,1
+44121,"South Euclid, OH",32887,1
+44122,"Shaker Heights, OH",36268,1
+44123,"Euclid, OH",17620,1
+44124,"Mayfield Heights, OH",40530,1
+44125,"Garfield Heights, OH",29663,1
+44126,"Fairview Park, OH",17235,1
+44127,"Cleveland, OH",4179,1
+44128,"Cleveland, OH",28146,1
+44129,"Parma, OH",28803,1
+44130,"Parma Heights, OH",50825,1
+44131,"Seven Hills, OH",20664,1
+44132,"Euclid, OH",14524,1
+44133,"North Royalton, OH",31373,1
+44134,"Parma, OH",38845,1
+44135,"Cleveland, OH",26684,1
+44136,"Strongsville, OH",25890,1
+44137,"Maple Heights, OH",23759,1
+44138,"Olmsted Falls, OH",23088,1
+44139,"Solon, OH",25331,1
+44140,"Bay Village, OH",16163,1
+44141,"Brecksville, OH",14130,1
+44142,"Brook Park, OH",18598,1
+44143,"Richmond Heights, OH",25339,1
+44144,"Brooklyn, OH",21361,1
+44145,"Westlake, OH",34228,1
+44146,"Bedford, OH",29778,1
+44147,"Broadview Heights, OH",19872,1
+44149,"Strongsville, OH",20678,1
+44201,"Atwater, OH",6658,1
+44202,"Aurora, OH",22167,1
+44203,"Barberton, OH",39577,1
+44212,"Brunswick, OH",45749,1
+44214,"Burbank, OH",2149,1
+44215,"Chippewa Lake, OH",2289,1
+44216,"New Franklin, OH",9443,1
+44217,"Creston, OH",4165,1
+44221,"Cuyahoga Falls, OH",29601,1
+44223,"Cuyahoga Falls, OH",18388,1
+44224,"Stow, OH",38709,1
+44230,"Doylestown, OH",8064,1
+44231,"Garrettsville, OH",8398,1
+44232,"Green, OH (PO Boxes)",30,1
+44233,"Hinckley, OH",8025,1
+44234,"Hiram, OH",3763,1
+44235,"Homerville, OH",1960,1
+44236,"Hudson, OH",26216,1
+44240,"Kent, OH",38354,1
+44241,"Streetsboro, OH",17659,1
+44243,"Kent, OH",5670,1
+44250,"Lakemore, OH",1469,1
+44251,"Westfield Center, OH",928,1
+44253,"Litchfield, OH",3438,1
+44254,"Lodi, OH",4784,1
+44255,"Mantua, OH",7558,1
+44256,"Medina, OH",64815,1
+44260,"Mogadore, OH",13152,1
+44262,"Munroe Falls, OH",5020,1
+44264,"Cuyahoga Falls, OH",3370,1
+44266,"Ravenna, OH",32606,1
+44270,"Rittman, OH",8384,1
+44272,"Rootstown, OH",5356,1
+44273,"Seville, OH",6900,1
+44274,"Sharon Center, OH (PO Boxes)",265,1
+44275,"Spencer, OH",3257,1
+44276,"Sterling, OH",2023,1
+44278,"Tallmadge, OH",18671,1
+44280,"Valley City, OH",5343,1
+44281,"Wadsworth, OH",33241,1
+44285,"Wayland, OH (PO Boxes)",169,1
+44286,"Richfield, OH",6258,1
+44287,"West Salem, OH",7561,1
+44288,"Windham, OH",3444,1
+44301,"Akron, OH",14364,1
+44302,"Akron, OH",4661,1
+44303,"Akron, OH",7031,1
+44304,"Akron, OH",4185,1
+44305,"Akron, OH",21214,1
+44306,"Akron, OH",21085,1
+44307,"Akron, OH",6959,1
+44308,"Akron, OH",1037,1
+44310,"Akron, OH",24984,1
+44311,"Akron, OH",6993,1
+44312,"Akron, OH",30510,1
+44313,"Akron, OH",25678,1
+44314,"Akron, OH",17686,1
+44319,"New Franklin, OH",21833,1
+44320,"Akron, OH",19083,1
+44321,"Akron, OH",15993,1
+44325,"Univ Of Akron, Akron, OH",1259,1
+44333,"Fairlawn, OH",19449,1
+44401,"Berlin Center, OH",2648,1
+44402,"Bristolville, OH",2951,1
+44403,"Brookfield, OH",3690,1
+44404,"Burghill, OH",1300,1
+44405,"Campbell, OH",7837,1
+44406,"Canfield, OH",22740,1
+44408,"Columbiana, OH",10526,1
+44410,"Cortland, OH",16824,1
+44411,"Deerfield, OH",2319,1
+44412,"Diamond, OH",2472,1
+44413,"East Palestine, OH",7186,1
+44415,"Elkton, OH (PO Boxes)",441,1
+44417,"Farmdale, OH",1539,1
+44418,"Fowler, OH",1224,1
+44420,"Girard, OH",15033,1
+44423,"Hanoverton, OH",2234,1
+44424,"Hartford, OH (PO Boxes)",130,1
+44425,"Hubbard, OH",14280,1
+44427,"Kensington, OH",1555,1
+44428,"Kinsman, OH",3115,1
+44429,"Lake Milton, OH",2437,1
+44430,"Leavittsburg, OH",4723,1
+44431,"Leetonia, OH",4629,1
+44432,"Lisbon, OH",12276,1
+44436,"Lowellville, OH",3382,1
+44437,"McDonald, OH",4073,1
+44438,"West Hill, OH",4762,1
+44439,"Mesopotamia, OH (PO Boxes)",577,1
+44440,"Mineral Ridge, OH",4648,1
+44441,"Negley, OH",1558,1
+44442,"New Middletown, OH",4095,1
+44443,"New Springfield, OH",1742,1
+44444,"Newton Falls, OH",10042,1
+44445,"New Waterford, OH",3160,1
+44446,"Niles, OH",20173,1
+44449,"North Benton, OH",1230,1
+44450,"North Bloomfield, OH",1824,1
+44451,"North Jackson, OH",3199,1
+44452,"North Lima, OH",3114,1
+44454,"Petersburg, OH",935,1
+44455,"Rogers, OH",1558,1
+44460,"Salem, OH",25393,1
+44470,"Southington, OH",3681,1
+44471,"Struthers, OH",10445,1
+44473,"Vienna, OH",3719,1
+44481,"Warren, OH",10258,1
+44483,"Warren, OH",24840,1
+44484,"Warren, OH",22290,1
+44485,"Warren, OH",15172,1
+44490,"Washingtonville, OH",721,1
+44491,"West Farmington, OH",3950,1
+44493,"Winona, OH (PO Boxes)",221,1
+44502,"Youngstown, OH",9300,1
+44503,"Youngstown, OH",1922,1
+44504,"Youngstown, OH",4577,1
+44505,"Youngstown, OH",17048,1
+44506,"Youngstown, OH",2109,1
+44507,"Youngstown, OH",4598,1
+44509,"Youngstown, OH",10934,1
+44510,"Youngstown, OH",2034,1
+44511,"Youngstown, OH",18738,1
+44512,"Boardman, OH",33282,1
+44514,"Youngstown, OH",22599,1
+44515,"Austintown, OH",27480,1
+44555,"Youngstown State Univ, Youngstown, OH",215,1
+44601,"Alliance, OH",33688,1
+44606,"Apple Creek, OH",8218,1
+44607,"Augusta, OH (PO Boxes)",67,1
+44608,"Beach City, OH",2646,1
+44609,"Beloit, OH",3592,1
+44610,"Berlin, OH",385,1
+44611,"Big Prairie, OH",2133,1
+44612,"Bolivar, OH",5443,1
+44613,"Brewster, OH",1998,1
+44614,"Canal Fulton, OH",12922,1
+44615,"Carrollton, OH",10557,1
+44618,"Dalton, OH",7159,1
+44619,"Damascus, OH (PO Boxes)",250,1
+44620,"Dellroy, OH",1428,1
+44621,"Dennison, OH",4606,1
+44622,"Dover, OH",18921,1
+44624,"Dundee, OH",5843,1
+44625,"East Rochester, OH",1322,1
+44626,"East Sparta, OH",2996,1
+44627,"Fredericksburg, OH",7692,1
+44628,"Glenmont, OH",1119,1
+44629,"Gnadenhutten, OH",2126,1
+44630,"Greentown, OH (PO Boxes)",28,1
+44632,"Hartville, OH",10047,1
+44633,"Holmesville, OH",2565,1
+44634,"Homeworth, OH",1995,1
+44637,"Killbuck, OH",2437,1
+44638,"Lakeville, OH",1555,1
+44639,"Leesville, OH (PO Boxes)",122,1
+44640,"Limaville, OH",151,1
+44641,"Louisville, OH",20399,1
+44643,"Magnolia, OH",3218,1
+44644,"Malvern, OH",4378,1
+44645,"Marshallville, OH",2670,1
+44646,"Massillon, OH",47973,1
+44647,"Massillon, OH",18368,1
+44651,"Mechanicstown, OH",765,1
+44652,"Middlebranch, OH (PO Boxes)",542,1
+44653,"Midvale, OH",632,1
+44654,"Millersburg, OH",20612,1
+44656,"Mineral City, OH",2618,1
+44657,"Minerva, OH",9916,1
+44659,"Mount Eaton, OH",160,1
+44660,"Mount Hope, OH (PO Boxes)",138,1
+44661,"Nashville, OH",248,1
+44662,"Navarre, OH",9562,1
+44663,"New Philadelphia, OH",25601,1
+44665,"North Georgetown, OH (PO Boxes)",54,1
+44666,"North Lawrence, OH",2935,1
+44667,"Orrville, OH",13723,1
+44669,"Paris, OH",1454,1
+44670,"Robertsville, OH",155,1
+44671,"Sandyville, OH",348,1
+44672,"Sebring, OH",4589,1
+44675,"Sherrodsville, OH",1890,1
+44676,"Shreve, OH",4771,1
+44677,"Smithville, OH",2805,1
+44678,"Somerdale, OH (PO Boxes)",282,1
+44680,"Strasburg, OH",4255,1
+44681,"Sugarcreek, OH",8053,1
+44682,"Tuscarawas, OH",1041,1
+44683,"Uhrichsville, OH",8313,1
+44685,"Green, OH",29008,1
+44687,"Walnut Creek, OH",456,1
+44688,"Waynesburg, OH",2958,1
+44689,"Wilmot, OH",586,1
+44690,"Winesburg, OH",153,1
+44691,"Wooster, OH",44666,1
+44693,"Deersville, OH",78,1
+44695,"Bowerston, OH",1222,1
+44697,"Zoar, OH",260,1
+44699,"Tippecanoe, OH",909,1
+44702,"Canton, OH",1086,1
+44703,"Canton, OH",8015,1
+44704,"Canton, OH",3723,1
+44705,"Canton, OH",17779,1
+44706,"Canton, OH",16972,1
+44707,"Canton, OH",9163,1
+44708,"Canton, OH",25386,1
+44709,"Canton, OH",18509,1
+44710,"Canton, OH",9309,1
+44714,"Canton, OH",8923,1
+44718,"Canton, OH",12607,1
+44720,"North Canton, OH",40744,1
+44721,"Canton, OH",13432,1
+44730,"East Canton, OH",5925,1
+44802,"Alvada, OH",948,1
+44804,"Arcadia, OH",1127,1
+44805,"Ashland, OH",31238,1
+44807,"Attica, OH",2264,1
+44809,"Bascom, OH",287,1
+44811,"Bellevue, OH",12698,1
+44813,"Bellville, OH",8039,1
+44814,"Berlin Heights, OH",2750,1
+44815,"Bettsville, OH",679,1
+44817,"Bloomdale, OH",1370,1
+44818,"Bloomville, OH",2399,1
+44820,"Bucyrus, OH",17114,1
+44822,"Butler, OH",3431,1
+44824,"Castalia, OH",3882,1
+44825,"Chatfield, OH",158,1
+44826,"Collins, OH",1617,1
+44827,"Crestline, OH",6973,1
+44828,"Flat Rock, OH",186,1
+44830,"Fostoria, OH",18442,1
+44833,"Galion, OH",16786,1
+44836,"Green Springs, OH",2538,1
+44837,"Greenwich, OH",4330,1
+44838,"Hayesville, OH",258,1
+44839,"Huron, OH",12472,1
+44840,"Jeromesville, OH",3137,1
+44841,"Kansas, OH",821,1
+44842,"Loudonville, OH",5643,1
+44843,"Lucas, OH",2469,1
+44844,"McCutchenville, OH",718,1
+44846,"Milan, OH",3322,1
+44847,"Monroeville, OH",3488,1
+44849,"Nevada, OH",2162,1
+44850,"New Haven, OH",145,1
+44851,"New London, OH",5303,1
+44853,"New Riegel, OH",1447,1
+44854,"New Washington, OH",1673,1
+44855,"North Fairfield, OH",1289,1
+44856,"North Robinson, OH",95,1
+44857,"Norwalk, OH",23619,1
+44859,"Nova, OH",1784,1
+44861,"Old Fort, OH",112,1
+44864,"Perrysville, OH",3182,1
+44865,"Plymouth, OH",3164,1
+44866,"Polk, OH",2372,1
+44867,"Republic, OH",2280,1
+44870,"Sandusky, OH",40416,1
+44874,"Savannah, OH",275,1
+44875,"Shelby, OH",13900,1
+44878,"Shiloh, OH",3223,1
+44880,"Sullivan, OH",2914,1
+44881,"Sulphur Springs, OH",117,1
+44882,"Sycamore, OH",2617,1
+44883,"Tiffin, OH",28690,1
+44887,"Tiro, OH",958,1
+44889,"Wakeman, OH",6702,1
+44890,"Willard, OH",10759,1
+44902,"Mansfield, OH",4891,1
+44903,"Mansfield, OH",25613,1
+44904,"Mansfield, OH",14368,1
+44905,"Mansfield, OH",16827,1
+44906,"Mansfield, OH",16566,1
+44907,"Mansfield, OH",15014,1
+45001,"Addyston, OH",927,1
+45002,"Miami Heights, OH",15458,1
+45003,"College Corner, OH",818,1
+45005,"Franklin, OH",31577,1
+45011,"Hamilton, OH",73596,1
+45013,"Hamilton, OH",53911,1
+45014,"Fairfield, OH",46169,1
+45015,"Hamilton, OH",12103,1
+45030,"Harrison, OH",21234,1
+45032,"Harveysburg, OH",459,1
+45033,"Hooven, OH",323,1
+45034,"Kings Mills, OH",1166,1
+45036,"Lebanon, OH",41060,1
+45039,"Maineville, OH",27529,1
+45040,"Mason, OH",57153,1
+45041,"Miamitown, OH",177,1
+45042,"Middletown, OH",26972,1
+45044,"Middletown, OH",56128,1
+45050,"Monroe, OH",12173,1
+45051,"Mount Saint Joseph, OH",393,1
+45052,"Mack, OH",3830,1
+45053,"Okeana, OH",3375,1
+45054,"Oregonia, OH",2499,1
+45055,"Overpeck, OH (PO Boxes)",76,1
+45056,"Oxford, OH",28892,1
+45062,"Seven Mile, OH",775,1
+45064,"Somerville, OH",3112,1
+45065,"South Lebanon, OH",6725,1
+45066,"Springboro, OH",26399,1
+45067,"Trenton, OH",15004,1
+45068,"Waynesville, OH",11911,1
+45069,"West Chester, OH",53694,1
+45070,"West Elkton, OH",151,1
+45101,"Aberdeen, OH",2125,1
+45102,"Amelia, OH",24954,1
+45103,"Batavia, OH",35237,1
+45105,"Bentonville, OH (PO Boxes)",15,1
+45106,"Bethel, OH",11855,1
+45107,"Blanchester, OH",9806,1
+45111,"Camp Dennison, OH",384,1
+45112,"Chilo, OH",69,1
+45113,"Clarksville, OH",3974,1
+45115,"Decatur, OH (PO Boxes)",217,1
+45118,"Fayetteville, OH",3716,1
+45119,"Feesburg, OH (PO Boxes)",19,1
+45120,"Felicity, OH",3138,1
+45121,"Georgetown, OH",8927,1
+45122,"Goshen, OH",10757,1
+45123,"Greenfield, OH",8776,1
+45130,"Hamersville, OH",3585,1
+45131,"Higginsport, OH",213,1
+45132,"Highland, OH",230,1
+45133,"Hillsboro, OH",23646,1
+45135,"Leesburg, OH",4765,1
+45140,"Loveland, OH",56386,1
+45142,"Lynchburg, OH",4384,1
+45144,"Manchester, OH",3912,1
+45146,"Martinsville, OH",1400,1
+45147,"Miamiville, OH",106,1
+45148,"Midland, OH",1539,1
+45150,"Milford, OH",33735,1
+45152,"Morrow, OH",13617,1
+45153,"Moscow, OH",1826,1
+45154,"Mount Orab, OH",9439,1
+45155,"Mowrystown, OH",385,1
+45156,"Neville, OH",63,1
+45157,"New Richmond, OH",9705,1
+45158,"Newtonsville, OH",774,1
+45159,"New Vienna, OH",3524,1
+45160,"Owensville, OH",627,1
+45162,"Pleasant Plain, OH",2730,1
+45164,"Port William, OH",233,1
+45166,"Reesville, OH (PO Boxes)",83,1
+45167,"Ripley, OH",3441,1
+45168,"Russellville, OH",1345,1
+45169,"Sabina, OH",4686,1
+45171,"Sardinia, OH",6174,1
+45172,"Sinking Spring, OH",116,1
+45174,"Terrace Park, OH",2359,1
+45176,"Williamsburg, OH",9100,1
+45177,"Wilmington, OH",22349,1
+45202,"Cincinnati, OH",16883,1
+45203,"Cincinnati, OH",2365,1
+45204,"Cincinnati, OH",5818,1
+45205,"Cincinnati, OH",19517,1
+45206,"Cincinnati, OH",10670,1
+45207,"Cincinnati, OH",7484,1
+45208,"Cincinnati, OH",18969,1
+45209,"Cincinnati, OH",10708,1
+45211,"Cincinnati, OH",37868,1
+45212,"Norwood, OH",21885,1
+45213,"Cincinnati, OH",12052,1
+45214,"Cincinnati, OH",8901,1
+45215,"Reading, OH",30993,1
+45216,"Cincinnati, OH",9667,1
+45217,"St. Bernard, OH",6177,1
+45218,"Greenhills, OH",3957,1
+45219,"Cincinnati, OH",20644,1
+45220,"Cincinnati, OH",15466,1
+45223,"Cincinnati, OH",13174,1
+45224,"Cincinnati, OH",20214,1
+45225,"Cincinnati, OH",8006,1
+45226,"Cincinnati, OH",5687,1
+45227,"Cincinnati, OH",18427,1
+45229,"Cincinnati, OH",12540,1
+45230,"Cincinnati, OH",27718,1
+45231,"Cincinnati, OH",41934,1
+45232,"Cincinnati, OH",7109,1
+45233,"Cincinnati, OH",15596,1
+45236,"Deer Park, OH",24223,1
+45237,"Cincinnati, OH",21029,1
+45238,"Cincinnati, OH",46864,1
+45239,"White Oak, OH",28499,1
+45240,"Forest Park, OH",28820,1
+45241,"Sharonville, OH",24380,1
+45242,"Blue Ash, OH",23214,1
+45243,"Madeira, OH",15894,1
+45244,"Dry Run, OH",28936,1
+45245,"Cincinnati, OH",20249,1
+45246,"Springdale, OH",15249,1
+45247,"White Oak, OH",23293,1
+45248,"Bridgetown, OH",25181,1
+45249,"Cincinnati, OH",14005,1
+45251,"Northbrook, OH",22073,1
+45252,"Dry Ridge, OH",4548,1
+45255,"Forestville, OH",22069,1
+45301,"Beavercreek, OH",135,1
+45302,"Anna, OH",4313,1
+45303,"Ansonia, OH",2215,1
+45304,"Arcanum, OH",7532,1
+45305,"Bellbrook, OH",11470,1
+45306,"Botkins, OH",2192,1
+45307,"Bowersville, OH",269,1
+45308,"Bradford, OH",4488,1
+45309,"Brookville, OH",12050,1
+45310,"Burkettsville, OH",272,1
+45311,"Camden, OH",5723,1
+45312,"Casstown, OH",1416,1
+45314,"Cedarville, OH",6261,1
+45315,"Clayton, OH",4818,1
+45316,"Clifton, OH",115,1
+45317,"Conover, OH",1018,1
+45318,"Covington, OH",5438,1
+45319,"Donnelsville, OH",287,1
+45320,"Eaton, OH",15530,1
+45321,"Eldorado, OH",859,1
+45322,"Englewood, OH",21185,1
+45323,"Enon, OH",5123,1
+45324,"Fairborn, OH",40449,1
+45325,"Farmersville, OH",2558,1
+45326,"Fletcher, OH",1170,1
+45327,"Germantown, OH",9388,1
+45328,"Gettysburg, OH",471,1
+45330,"Gratis, OH",830,1
+45331,"Greenville, OH",22213,1
+45332,"Hollansburg, OH",634,1
+45333,"Houston, OH",1389,1
+45334,"Jackson Center, OH",2041,1
+45335,"Jamestown, OH",7062,1
+45336,"Kettlersville, OH",100,1
+45337,"Laura, OH",1519,1
+45338,"Lewisburg, OH",4950,1
+45339,"Ludlow Falls, OH",1169,1
+45340,"Maplewood, OH",850,1
+45341,"Medway, OH",3741,1
+45342,"Miamisburg, OH",37508,1
+45344,"New Carlisle, OH",17042,1
+45345,"New Lebanon, OH",5951,1
+45346,"New Madison, OH",2085,1
+45347,"New Paris, OH",4264,1
+45348,"New Weston, OH",968,1
+45349,"North Hampton, OH",313,1
+45350,"North Star, OH",78,1
+45351,"Osgood, OH",284,1
+45352,"Palestine, OH",183,1
+45353,"Pemberton, OH (PO Boxes)",150,1
+45354,"Phillipsburg, OH",572,1
+45356,"Piqua, OH",25106,1
+45358,"Pitsburg, OH",361,1
+45359,"Pleasant Hill, OH",1996,1
+45360,"Port Jefferson, OH",300,1
+45361,"Potsdam, OH",225,1
+45362,"Rossburg, OH",1086,1
+45363,"Russia, OH",1853,1
+45365,"Sidney, OH",29277,1
+45368,"South Charleston, OH",4817,1
+45369,"South Vienna, OH",3576,1
+45370,"Spring Valley, OH",2379,1
+45371,"Tipp City, OH",23205,1
+45372,"Tremont City, OH",352,1
+45373,"Troy, OH",36863,1
+45377,"Vandalia, OH",15070,1
+45378,"Verona, OH",402,1
+45380,"Versailles, OH",5573,1
+45381,"West Alexandria, OH",5424,1
+45382,"West Manchester, OH",1179,1
+45383,"West Milton, OH",6885,1
+45384,"Wilberforce, OH",2258,1
+45385,"Xenia, OH",39446,1
+45387,"Yellow Springs, OH",5326,1
+45388,"Yorkshire, OH",878,1
+45389,"Christiansburg, OH",503,1
+45390,"Union City, OH",3269,1
+45402,"Dayton, OH",10735,1
+45403,"Dayton, OH",15130,1
+45404,"Dayton, OH",10730,1
+45405,"Dayton, OH",18124,1
+45406,"Dayton, OH",20622,1
+45409,"Dayton, OH",12392,1
+45410,"Dayton, OH",15758,1
+45414,"Dayton, OH",20693,1
+45415,"Clayton, OH",12811,1
+45416,"Trotwood, OH",5612,1
+45417,"Dayton, OH",28079,1
+45419,"Oakwood, OH",16236,1
+45420,"Dayton, OH",25045,1
+45423,"Dayton, OH",4,1
+45424,"Huber Heights, OH",50920,1
+45426,"Trotwood, OH",14391,1
+45428,"Dayton, OH",303,1
+45429,"Kettering, OH",26514,1
+45430,"Beavercreek, OH",7637,1
+45431,"Beavercreek, OH",26660,1
+45432,"Beavercreek, OH",15105,1
+45433,"Wright-Patterson AFB, OH",1567,1
+45434,"Beavercreek, OH",12628,1
+45435,"Dayton, OH",124,1
+45439,"Moraine, OH",11726,1
+45440,"Kettering, OH",22676,1
+45449,"West Carrollton, OH",18976,1
+45458,"Dayton, OH",36474,1
+45459,"Dayton, OH",28344,1
+45469,"Dayton, OH",219,1
+45502,"Springfield, OH",16767,1
+45503,"Springfield, OH",32870,1
+45504,"Springfield, OH",17343,1
+45505,"Springfield, OH",19708,1
+45506,"Springfield, OH",13330,1
+45601,"Chillicothe, OH",56849,1
+45612,"Bainbridge, OH",5059,1
+45613,"Beaver, OH",3542,1
+45614,"Bidwell, OH",4800,1
+45616,"Blue Creek, OH",1187,1
+45617,"Bourneville, OH (PO Boxes)",76,1
+45618,"Cherry Fork, OH",29,1
+45619,"Chesapeake, OH",7348,1
+45620,"Cheshire, OH",875,1
+45621,"Coalton, OH",403,1
+45622,"Creola, OH",485,1
+45623,"Crown City, OH",3235,1
+45624,"Cynthiana, OH",22,1
+45628,"Frankfort, OH",5429,1
+45629,"Franklin Furnace, OH",3220,1
+45630,"Friendship, OH",222,1
+45631,"Gallipolis, OH",14200,1
+45634,"Hamden, OH",1893,1
+45636,"Franklin Furnace, OH",150,1
+45638,"Ironton, OH",20114,1
+45640,"Jackson, OH",15896,1
+45642,"Jasper, OH (PO Boxes)",35,1
+45644,"Kingston, OH",4316,1
+45645,"Kitts Hill, OH",2750,1
+45646,"Latham, OH",363,1
+45647,"Londonderry, OH",2410,1
+45648,"Lucasville, OH",11211,1
+45650,"Lynx, OH (PO Boxes)",348,1
+45651,"Mc Arthur, OH",5691,1
+45652,"Mc Dermott, OH",3131,1
+45653,"Minford, OH",3907,1
+45654,"New Plymouth, OH",833,1
+45656,"Oak Hill, OH",6532,1
+45657,"Otway, OH",2504,1
+45658,"Patriot, OH",2538,1
+45659,"Pedro, OH",2623,1
+45660,"Peebles, OH",8011,1
+45661,"Piketon, OH",7014,1
+45662,"Portsmouth, OH",27718,1
+45663,"West Portsmouth, OH",6343,1
+45669,"Proctorville, OH",10223,1
+45671,"Rarden, OH",391,1
+45672,"Ray, OH",1679,1
+45673,"Richmond Dale, OH",398,1
+45674,"Rio Grande, OH",686,1
+45677,"Scioto Furnace, OH (PO Boxes)",73,1
+45678,"Scottown, OH",1140,1
+45679,"Seaman, OH",3097,1
+45680,"South Point, OH",12326,1
+45681,"South Salem, OH",1589,1
+45682,"South Webster, OH",1998,1
+45684,"Stout, OH",1838,1
+45685,"Thurman, OH",1040,1
+45686,"Vinton, OH",3379,1
+45688,"Waterloo, OH",403,1
+45690,"Waverly, OH",13527,1
+45692,"Wellston, OH",8460,1
+45693,"West Union, OH",8797,1
+45694,"Wheelersburg, OH",11783,1
+45695,"Wilkesville, OH",587,1
+45696,"Willow Wood, OH",1253,1
+45697,"Winchester, OH",4828,1
+45698,"Zaleski, OH",262,1
+45699,"So Oh Correctional Facility, Lucasville, OH",1236,1
+45701,"Athens, OH",33705,1
+45710,"Albany, OH",5547,1
+45711,"Amesville, OH",1065,1
+45714,"Belpre, OH",10149,1
+45715,"Beverly, OH",2412,1
+45716,"Buchtel, OH",490,1
+45719,"Chauncey, OH",964,1
+45720,"Chester, OH (PO Boxes)",12,1
+45721,"Coal Run, OH",41,1
+45723,"Coolville, OH",3552,1
+45724,"Cutler, OH",1785,1
+45727,"Dexter City, OH",478,1
+45729,"Fleming, OH",1460,1
+45732,"Glouster, OH",4524,1
+45734,"Graysville, OH",409,1
+45735,"Guysville, OH",1619,1
+45739,"Hockingport, OH (PO Boxes)",160,1
+45740,"Jacksonville, OH",406,1
+45741,"Langsville, OH",809,1
+45742,"Little Hocking, OH",3018,1
+45743,"Long Bottom, OH",1383,1
+45744,"Lowell, OH",2656,1
+45745,"Lower Salem, OH",1104,1
+45746,"Macksburg, OH",348,1
+45750,"Marietta, OH",26327,1
+45760,"Middleport, OH",3309,1
+45761,"Millfield, OH",1558,1
+45764,"Nelsonville, OH",7859,1
+45766,"New Marshfield, OH",1313,1
+45767,"New Matamoras, OH",2314,1
+45768,"Newport, OH",1599,1
+45769,"Pomeroy, OH",5952,1
+45770,"Portland, OH",567,1
+45771,"Racine, OH",3408,1
+45772,"Reedsville, OH",1697,1
+45773,"Reno, OH",305,1
+45775,"Rutland, OH",1361,1
+45776,"Shade, OH",730,1
+45778,"Stewart, OH",834,1
+45779,"Syracuse, OH",780,1
+45780,"The Plains, OH",3328,1
+45782,"Trimble, OH",313,1
+45783,"Tuppers Plains, OH (PO Boxes)",181,1
+45784,"Vincent, OH",3313,1
+45786,"Waterford, OH",3160,1
+45788,"Whipple, OH",961,1
+45789,"Wingett Run, OH",188,1
+45801,"Lima, OH",22819,1
+45804,"Lima, OH",14573,1
+45805,"Lima, OH",22740,1
+45806,"Lima, OH",11238,1
+45807,"Lima, OH",11856,1
+45808,"Beaverdam, OH",282,1
+45809,"Gomer, OH",173,1
+45810,"Ada, OH",7840,1
+45812,"Alger, OH",1835,1
+45813,"Antwerp, OH",3579,1
+45814,"Arlington, OH",2646,1
+45815,"Belmore, OH",57,1
+45816,"Benton Ridge, OH",260,1
+45817,"Bluffton, OH",6420,1
+45819,"Buckland, OH",233,1
+45820,"Cairo, OH",517,1
+45821,"Cecil, OH",1252,1
+45822,"Celina, OH",19945,1
+45826,"Chickasaw, OH",358,1
+45827,"Cloverdale, OH",2223,1
+45828,"Coldwater, OH",6495,1
+45830,"Columbus Grove, OH",5797,1
+45831,"Continental, OH",3023,1
+45832,"Convoy, OH",2854,1
+45833,"Delphos, OH",10682,1
+45835,"Dola, OH",487,1
+45836,"Dunkirk, OH",1332,1
+45838,"Elgin, OH",39,1
+45840,"Findlay, OH",54901,1
+45841,"Jenera, OH",936,1
+45843,"Forest, OH",3768,1
+45844,"Fort Jennings, OH",3251,1
+45845,"Fort Loramie, OH",3270,1
+45846,"Fort Recovery, OH",4461,1
+45848,"Glandorf, OH (PO Boxes)",61,1
+45849,"Grover Hill, OH",1154,1
+45850,"Harrod, OH",3617,1
+45851,"Haviland, OH",676,1
+45853,"Kalida, OH",1451,1
+45854,"Lafayette, OH",461,1
+45855,"Latty, OH",165,1
+45856,"Leipsic, OH",5094,1
+45858,"McComb, OH",3038,1
+45859,"McGuffey, OH",461,1
+45860,"Maria Stein, OH",2444,1
+45861,"Melrose, OH",223,1
+45862,"Mendon, OH",1408,1
+45863,"Middle Point, OH",1135,1
+45864,"Miller City, OH",160,1
+45865,"Minster, OH",5251,1
+45866,"Montezuma, OH",152,1
+45867,"Mount Blanchard, OH",1138,1
+45868,"Mount Cory, OH",705,1
+45869,"New Bremen, OH",4567,1
+45870,"New Hampshire, OH",116,1
+45871,"New Knoxville, OH",2019,1
+45872,"North Baltimore, OH",4120,1
+45873,"Oakwood, OH",2235,1
+45874,"Ohio City, OH",2079,1
+45875,"Ottawa, OH",11273,1
+45876,"Ottoville, OH",958,1
+45877,"Pandora, OH",2239,1
+45879,"Paulding, OH",5963,1
+45880,"Payne, OH",2390,1
+45881,"Rawson, OH",1485,1
+45882,"Rockford, OH",3005,1
+45883,"St. Henry, OH",4026,1
+45884,"St Johns, OH",147,1
+45885,"St. Marys, OH",12863,1
+45886,"Scott, OH",459,1
+45887,"Spencerville, OH",4688,1
+45888,"Uniopolis, OH",188,1
+45889,"Van Buren, OH",1481,1
+45890,"Vanlue, OH",653,1
+45891,"Van Wert, OH",15633,1
+45893,"Vaughnsville, OH (PO Boxes)",262,1
+45894,"Venedocia, OH",649,1
+45895,"Wapakoneta, OH",17974,1
+45896,"Waynesfield, OH",1990,1
+45897,"Williamstown, OH (PO Boxes)",107,1
+45898,"Willshire, OH",1251,1
+45899,"Wren, OH",165,1
