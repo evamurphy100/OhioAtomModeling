@@ -1,6 +1,6 @@
 # Integrating data at multiple spatial scales to estimate the local burden of the opioid syndemic
 ## Eva Murphy, David Kline, Erin McKnight, Andrea Bonny, William C. Miller, Lance Waller, Staci A. Hepler
-This repository serves as suplementary material that inlcudes the data and code that we used in our manuscript. 
+This repository serves as suplementary material that inlcudes the data and code used in our manuscript. 
 
 In this project we estimate one latent factor characterizing variation of the syndemic across space in Ohio. There are 5 different outcomes considered in this project: 
 - Death counts: county-level counts; included are the counts of unintentional overdose deaths involving illicit opioids.
