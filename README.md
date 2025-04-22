@@ -1,5 +1,4 @@
-# Ohio Atom Modeling
-## Modeling of the opioid syndemic in Ohio using atom-based modeling
+# Integrating data at multiple spatial scales to estimate the local burden of the opioid syndemic
 
 In this project we estimate one latent factor characterizing variation of the syndemic across space in Ohio. There are 5 different outcomes considered in this project: 
 - Death counts: county-level counts; included are the counts of unintentional overdose deaths involving illicit opioids.
