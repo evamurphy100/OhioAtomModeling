@@ -7,6 +7,9 @@ library(tigris)
 
 # Load Atom data
 atom_data = read_excel("Atom_data.xlsx")
+# Load the crosswalk data
+crosswalk = read_excel("Data_redo/Ohio_Crosswalk.xlsx")
+crosswalk = crosswalk[,c(1,5)]
 
 ########## Make map from atom to county ##########
 
